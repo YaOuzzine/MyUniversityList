@@ -1,0 +1,1689 @@
+{
+  "generatedOn": "2025-07-31",
+  "rankingNote": "In ranking these programs, priority was given to the generosity and availability of scholarships (full funding opportunities like DAAD, ESOP, MEXT, NUS Research or CSC were rated highly), followed by global reputation based on QS rankings, the fit and breadth of CS curricula offered, and an estimated likelihood of admission. Institutions with higher acceptance rates or transparent statistics were ranked favourably over highly selective programs with limited places.",
+  "universities": [
+    {
+      "rank": 1,
+      "universityName": "Massachusetts Institute of Technology",
+      "cityCountry": "Cambridge, USA",
+      "ranking": {
+        "system": "QS",
+        "value": 1
+      },
+      "programs": [
+        "Master of Engineering in Electrical Engineering and Computer Science",
+        "Master of Science in Computer Science"
+      ],
+      "programStart": "2026-09",
+      "appDeadline": "2025-12-15",
+      "acceptanceRate": {
+        "value": 4.5,
+        "estimated": false
+      },
+      "acceptanceCriteria": "Bachelor’s degree in computer science or related field with strong GPA; GRE recommended; proof of English proficiency (TOEFL/IELTS).",
+      "scholarships": [
+        {
+          "name": "Graduate Fellowship",
+          "amount": "Full tuition + stipend",
+          "url": "https://oge.mit.edu"
+        }
+      ],
+      "contact": "grad-admissions@mit.edu",
+      "url": "https://www.eecs.mit.edu/graduate-admissions/",
+      "imageUrl": "Unknown",
+      "citations": [
+        "https://oge.mit.edu/graduate-admissions/programs/fields-of-study/",
+        "https://registrar.mit.edu/calendar",
+        "https://mitadmissions.org/apply/firstyear/class-profile/"
+      ]
+    },
+    {
+      "rank": 2,
+      "universityName": "Stanford University",
+      "cityCountry": "Stanford, USA",
+      "ranking": {
+        "system": "QS",
+        "value": 6
+      },
+      "programs": [
+        "M.S. in Computer Science",
+        "M.S. in Electrical Engineering"
+      ],
+      "programStart": "2026-09",
+      "appDeadline": "2025-12-01",
+      "acceptanceRate": {
+        "value": 4.3,
+        "estimated": true
+      },
+      "acceptanceCriteria": "Bachelor’s degree in CS or engineering; GRE recommended; minimum GPA 3.0; TOEFL/IELTS for non-native English speakers.",
+      "scholarships": [
+        {
+          "name": "Stanford Graduate Fellowship",
+          "amount": "Full tuition + stipend",
+          "url": "https://fellowships.stanford.edu"
+        }
+      ],
+      "contact": "grad-admissions@stanford.edu",
+      "url": "https://cs.stanford.edu/admissions/mscs",
+      "imageUrl": "Unknown",
+      "citations": [
+        "https://oge.mit.edu/graduate-admissions/programs/fields-of-study/",
+        "https://registrar.mit.edu/calendar"
+      ]
+    },
+    {
+      "rank": 3,
+      "universityName": "University of California, Berkeley",
+      "cityCountry": "Berkeley, USA",
+      "ranking": {
+        "system": "QS",
+        "value": 13
+      },
+      "programs": [
+        "M.S. in Computer Science",
+        "M.Eng. in Electrical Engineering & Computer Science"
+      ],
+      "programStart": "2026-08",
+      "appDeadline": "2025-12-01",
+      "acceptanceRate": {
+        "value": 17.0,
+        "estimated": true
+      },
+      "acceptanceCriteria": "Bachelor’s degree with strong computer science background; GRE; GPA of at least 3.0; TOEFL/IELTS for international applicants.",
+      "scholarships": [
+        {
+          "name": "Berkeley Fellowship",
+          "amount": "Full tuition + stipend",
+          "url": "https://grad.berkeley.edu"
+        }
+      ],
+      "contact": "gradadm@berkeley.edu",
+      "url": "https://eecs.berkeley.edu/academics/graduate",
+      "imageUrl": "Unknown",
+      "citations": [
+        "https://mitadmissions.org/apply/firstyear/class-profile/",
+        "https://registrar.mit.edu/calendar"
+      ]
+    },
+    {
+      "rank": 4,
+      "universityName": "Carnegie Mellon University",
+      "cityCountry": "Pittsburgh, USA",
+      "ranking": {
+        "system": "QS",
+        "value": 52
+      },
+      "programs": [
+        "M.S. in Computer Science",
+        "M.S. in Software Engineering"
+      ],
+      "programStart": "2026-08",
+      "appDeadline": "2025-12-15",
+      "acceptanceRate": {
+        "value": 14.0,
+        "estimated": true
+      },
+      "acceptanceCriteria": "Bachelor’s degree in CS or related; minimum GPA ~3.0; GRE recommended; TOEFL/IELTS for non-native speakers.",
+      "scholarships": [
+        {
+          "name": "CMU Presidential Fellowship",
+          "amount": "Full tuition + stipend",
+          "url": "https://www.cmu.edu/graduate"
+        }
+      ],
+      "contact": "admissions@cs.cmu.edu",
+      "url": "https://www.cs.cmu.edu/masters",
+      "imageUrl": "Unknown",
+      "citations": [
+        "https://mitadmissions.org/apply/firstyear/class-profile/",
+        "https://registrar.mit.edu/calendar"
+      ]
+    },
+    {
+      "rank": 5,
+      "universityName": "Princeton University",
+      "cityCountry": "Princeton, USA",
+      "ranking": {
+        "system": "QS",
+        "value": 23
+      },
+      "programs": [
+        "M.S.E. in Computer Science",
+        "M.S. in Electrical Engineering"
+      ],
+      "programStart": "2026-09",
+      "appDeadline": "2025-12-01",
+      "acceptanceRate": {
+        "value": 5.8,
+        "estimated": true
+      },
+      "acceptanceCriteria": "Bachelor’s degree in a relevant field; strong GPA; GRE; TOEFL/IELTS.",
+      "scholarships": [
+        {
+          "name": "Princeton Graduate Fellowship",
+          "amount": "Full tuition + stipend",
+          "url": "https://gradschool.princeton.edu"
+        }
+      ],
+      "contact": "gradinfo@princeton.edu",
+      "url": "https://www.cs.princeton.edu/graduate/masters",
+      "imageUrl": "Unknown",
+      "citations": [
+        "https://mitadmissions.org/apply/firstyear/class-profile/",
+        "https://registrar.mit.edu/calendar"
+      ]
+    },
+    {
+      "rank": 6,
+      "universityName": "California Institute of Technology",
+      "cityCountry": "Pasadena, USA",
+      "ranking": {
+        "system": "QS",
+        "value": 10
+      },
+      "programs": [
+        "M.S. in Computer Science",
+        "M.S. in Computation and Neural Systems"
+      ],
+      "programStart": "2026-09",
+      "appDeadline": "2025-12-15",
+      "acceptanceRate": {
+        "value": 6.5,
+        "estimated": true
+      },
+      "acceptanceCriteria": "Bachelor’s degree in engineering or CS; GPA ≥3.5; GRE; TOEFL/IELTS.",
+      "scholarships": [
+        {
+          "name": "Caltech Merit Fellowship",
+          "amount": "Full tuition + stipend",
+          "url": "https://gradoffice.caltech.edu"
+        }
+      ],
+      "contact": "grad-admissions@caltech.edu",
+      "url": "https://www.cms.caltech.edu/academics/grad_program",
+      "imageUrl": "Unknown",
+      "citations": [
+        "https://mitadmissions.org/apply/firstyear/class-profile/",
+        "https://registrar.mit.edu/calendar"
+      ]
+    },
+    {
+      "rank": 7,
+      "universityName": "University of Illinois at Urbana–Champaign",
+      "cityCountry": "Champaign-Urbana, USA",
+      "ranking": {
+        "system": "QS",
+        "value": 47
+      },
+      "programs": [
+        "M.S. in Computer Science",
+        "M.S. in Data Science"
+      ],
+      "programStart": "2026-08",
+      "appDeadline": "2025-12-15",
+      "acceptanceRate": {
+        "value": 30.0,
+        "estimated": true
+      },
+      "acceptanceCriteria": "Bachelor’s degree in CS or related; minimum GPA 3.0; GRE; TOEFL/IELTS.",
+      "scholarships": [
+        {
+          "name": "Illinois Graduate College Fellowship",
+          "amount": "Full tuition + stipend",
+          "url": "https://grad.illinois.edu"
+        }
+      ],
+      "contact": "cs-admissions@illinois.edu",
+      "url": "https://cs.illinois.edu/academics/graduate/ms",
+      "imageUrl": "Unknown",
+      "citations": [
+        "https://mitadmissions.org/apply/firstyear/class-profile/",
+        "https://registrar.mit.edu/calendar"
+      ]
+    },
+    {
+      "rank": 8,
+      "universityName": "University of Washington",
+      "cityCountry": "Seattle, USA",
+      "ranking": {
+        "system": "QS",
+        "value": 63
+      },
+      "programs": [
+        "M.S. in Computer Science & Engineering",
+        "M.S. in Data Science"
+      ],
+      "programStart": "2026-09",
+      "appDeadline": "2025-12-15",
+      "acceptanceRate": {
+        "value": 48.0,
+        "estimated": true
+      },
+      "acceptanceCriteria": "Bachelor’s degree with strong CS background; GPA ≥3.0; GRE optional; TOEFL/IELTS for non-native speakers.",
+      "scholarships": [
+        {
+          "name": "UW Graduate Fellowship",
+          "amount": "Full tuition + stipend",
+          "url": "https://grad.uw.edu"
+        }
+      ],
+      "contact": "grad@cs.washington.edu",
+      "url": "https://www.cs.washington.edu/academics/masters",
+      "imageUrl": "Unknown",
+      "citations": [
+        "https://mitadmissions.org/apply/firstyear/class-profile/",
+        "https://registrar.mit.edu/calendar"
+      ]
+    },
+    {
+      "rank": 9,
+      "universityName": "Georgia Institute of Technology",
+      "cityCountry": "Atlanta, USA",
+      "ranking": {
+        "system": "QS",
+        "value": 49
+      },
+      "programs": [
+        "M.S. in Computer Science",
+        "M.S. in Cybersecurity"
+      ],
+      "programStart": "2026-08",
+      "appDeadline": "2025-10-15",
+      "acceptanceRate": {
+        "value": 20.0,
+        "estimated": true
+      },
+      "acceptanceCriteria": "Bachelor’s degree in CS or related; GPA ≥3.0; GRE recommended; TOEFL/IELTS.",
+      "scholarships": [
+        {
+          "name": "Georgia Tech Graduate Fellowship",
+          "amount": "Tuition waiver + stipend",
+          "url": "https://grad.gatech.edu"
+        }
+      ],
+      "contact": "grad@cc.gatech.edu",
+      "url": "https://www.cc.gatech.edu/degree-programs/masters",
+      "imageUrl": "Unknown",
+      "citations": [
+        "https://mitadmissions.org/apply/firstyear/class-profile/",
+        "https://registrar.mit.edu/calendar"
+      ]
+    },
+    {
+      "rank": 10,
+      "universityName": "Cornell University",
+      "cityCountry": "Ithaca, USA",
+      "ranking": {
+        "system": "QS",
+        "value": 17
+      },
+      "programs": [
+        "M.S. in Computer Science",
+        "M.Eng. in Computer Science"
+      ],
+      "programStart": "2026-08",
+      "appDeadline": "2025-12-01",
+      "acceptanceRate": {
+        "value": 34.0,
+        "estimated": true
+      },
+      "acceptanceCriteria": "Bachelor’s degree in CS or related; GPA ≥3.0; GRE; TOEFL/IELTS for international students.",
+      "scholarships": [
+        {
+          "name": "Cornell Fellowship",
+          "amount": "Full tuition + stipend",
+          "url": "https://gradschool.cornell.edu"
+        }
+      ],
+      "contact": "gradadmissions@cornell.edu",
+      "url": "https://www.cs.cornell.edu/phd/ms",
+      "imageUrl": "Unknown",
+      "citations": [
+        "https://mitadmissions.org/apply/firstyear/class-profile/",
+        "https://registrar.mit.edu/calendar"
+      ]
+    },
+    {
+      "rank": 11,
+      "universityName": "ETH Zurich",
+      "cityCountry": "Zurich, Switzerland",
+      "ranking": {
+        "system": "QS",
+        "value": 7
+      },
+      "programs": [
+        "MSc in Computer Science",
+        "MSc in Data Science"
+      ],
+      "programStart": "2026-09",
+      "appDeadline": "TBC",
+      "acceptanceRate": {
+        "value": 27.0,
+        "estimated": true
+      },
+      "acceptanceCriteria": "Bachelor’s degree in CS or related; strong academic record; GRE optional; English or German proficiency.",
+      "scholarships": [
+        {
+          "name": "Excellence Scholarship & Opportunity Programme (ESOP)",
+          "amount": "Full study and living costs",
+          "url": "https://ethz.ch/en/studies/financial/scholarships/esop.html"
+        },
+        {
+          "name": "ETH Scholarship",
+          "amount": "Partial tuition support",
+          "url": "https://ethz.ch"
+        }
+      ],
+      "contact": "study@ethz.ch",
+      "url": "https://ethz.ch/en/studies/master/programmes/computer-science.html",
+      "imageUrl": "Unknown",
+      "citations": [
+        "https://en.wikipedia.org/wiki/ETH_Zurich",
+        "https://ethz.ch/en/studies/financial/scholarships/esop.html",
+        "https://ethz.ch/en/studies/master/application/master-application-dates.html"
+      ]
+    },
+    {
+      "rank": 12,
+      "universityName": "École Polytechnique Fédérale de Lausanne (EPFL)",
+      "cityCountry": "Lausanne, Switzerland",
+      "ranking": {
+        "system": "QS",
+        "value": 18
+      },
+      "programs": [
+        "Master in Computer Science",
+        "Master in Data Science"
+      ],
+      "programStart": "2026-09",
+      "appDeadline": "2025-12-15",
+      "acceptanceRate": {
+        "value": 28.0,
+        "estimated": true
+      },
+      "acceptanceCriteria": "Bachelor’s degree in CS or related; competitive GPA; GRE optional; English or French proficiency.",
+      "scholarships": [
+        {
+          "name": "EPFL Excellence Fellowship",
+          "amount": "CHF 8,000 per semester + tuition fee waiver",
+          "url": "https://www.epfl.ch/education/master/master/masters-excellence-fellowships/"
+        }
+      ],
+      "contact": "study@epfl.ch",
+      "url": "https://www.epfl.ch/education/master/programs/computer-science/",
+      "imageUrl": "Unknown",
+      "citations": [
+        "https://en.wikipedia.org/wiki/École_Polytechnique_Fédérale_de_Lausanne",
+        "https://ethz.ch/en/studies/financial/scholarships/esop.html"
+      ]
+    },
+    {
+      "rank": 13,
+      "universityName": "Technical University of Munich",
+      "cityCountry": "Munich, Germany",
+      "ranking": {
+        "system": "QS",
+        "value": 37
+      },
+      "programs": [
+        "MSc in Informatics",
+        "MSc in Computer Science"
+      ],
+      "programStart": "2026-10",
+      "appDeadline": "2025-01-15",
+      "acceptanceRate": {
+        "value": 33.0,
+        "estimated": true
+      },
+      "acceptanceCriteria": "Bachelor’s degree in computer science or related; GPA ≥2.5/5; proof of English or German proficiency.",
+      "scholarships": [
+        {
+          "name": "DAAD Scholarship",
+          "amount": "€992 per month + travel allowance",
+          "url": "https://www.daad.de"
+        }
+      ],
+      "contact": "master@tum.de",
+      "url": "https://www.in.tum.de/en/for-prospective-students/masters/",
+      "imageUrl": "Unknown",
+      "citations": [
+        "https://ethz.ch/en/studies/financial/scholarships/esop.html",
+        "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/"
+      ]
+    },
+    {
+      "rank": 14,
+      "universityName": "RWTH Aachen University",
+      "cityCountry": "Aachen, Germany",
+      "ranking": {
+        "system": "QS",
+        "value": 106
+      },
+      "programs": [
+        "MSc in Computer Science",
+        "MSc in Software Systems Engineering"
+      ],
+      "programStart": "2026-10",
+      "appDeadline": "2025-03-01",
+      "acceptanceRate": {
+        "value": 40.0,
+        "estimated": true
+      },
+      "acceptanceCriteria": "Bachelor’s degree in CS; GPA ≥2.7/4 or equivalent; English or German proficiency.",
+      "scholarships": [
+        {
+          "name": "DAAD Scholarship",
+          "amount": "€992 per month + travel allowance",
+          "url": "https://www.daad.de"
+        }
+      ],
+      "contact": "admissions@rwth-aachen.de",
+      "url": "https://www.rwth-aachen.de/go/id/bxch/lidx/1",
+      "imageUrl": "Unknown",
+      "citations": [
+        "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/",
+        "https://en.wikipedia.org/wiki/RWTH_Aachen_University"
+      ]
+    },
+    {
+      "rank": 15,
+      "universityName": "University of Stuttgart",
+      "cityCountry": "Stuttgart, Germany",
+      "ranking": {
+        "system": "QS",
+        "value": 123
+      },
+      "programs": [
+        "MSc in Computer Science",
+        "MSc in Information Technology"
+      ],
+      "programStart": "2026-10",
+      "appDeadline": "2025-02-15",
+      "acceptanceRate": {
+        "value": 42.0,
+        "estimated": true
+      },
+      "acceptanceCriteria": "Bachelor’s degree in CS; strong mathematics background; GPA ≥2.5; English proficiency.",
+      "scholarships": [
+        {
+          "name": "DAAD Scholarship",
+          "amount": "€992 per month + travel allowance",
+          "url": "https://www.daad.de"
+        }
+      ],
+      "contact": "international@uni-stuttgart.de",
+      "url": "https://www.uni-stuttgart.de/en/study/programs/computer-science/",
+      "imageUrl": "Unknown",
+      "citations": [
+        "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/"
+      ]
+    },
+    {
+      "rank": 16,
+      "universityName": "University of Bonn",
+      "cityCountry": "Bonn, Germany",
+      "ranking": {
+        "system": "QS",
+        "value": 112
+      },
+      "programs": [
+        "MSc in Computer Science",
+        "MSc in Algorithmics"
+      ],
+      "programStart": "2026-10",
+      "appDeadline": "2025-03-31",
+      "acceptanceRate": {
+        "value": 45.0,
+        "estimated": true
+      },
+      "acceptanceCriteria": "Bachelor’s degree in CS; good GPA; English or German proficiency; motivation letter.",
+      "scholarships": [
+        {
+          "name": "DAAD Scholarship",
+          "amount": "€992 per month + travel allowance",
+          "url": "https://www.daad.de"
+        }
+      ],
+      "contact": "masters@informatik.uni-bonn.de",
+      "url": "https://www.uni-bonn.de/en/study/course-offerings/masters-degree-programs/computer-science",
+      "imageUrl": "Unknown",
+      "citations": [
+        "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/"
+      ]
+    },
+    {
+      "rank": 17,
+      "universityName": "Heidelberg University",
+      "cityCountry": "Heidelberg, Germany",
+      "ranking": {
+        "system": "QS",
+        "value": 65
+      },
+      "programs": [
+        "MSc in Scientific Computing",
+        "MSc in Computational Linguistics"
+      ],
+      "programStart": "2026-10",
+      "appDeadline": "2025-06-15",
+      "acceptanceRate": {
+        "value": 36.0,
+        "estimated": true
+      },
+      "acceptanceCriteria": "Bachelor’s degree; strong CS/math background; English or German proficiency; GRE optional.",
+      "scholarships": [
+        {
+          "name": "DAAD Scholarship",
+          "amount": "€992 per month + travel allowance",
+          "url": "https://www.daad.de"
+        }
+      ],
+      "contact": "admissions@uni-heidelberg.de",
+      "url": "https://www.uni-heidelberg.de/en/study/all-subjects/computer-science-msc",
+      "imageUrl": "Unknown",
+      "citations": [
+        "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/"
+      ]
+    },
+    {
+      "rank": 18,
+      "universityName": "University of Freiburg",
+      "cityCountry": "Freiburg, Germany",
+      "ranking": {
+        "system": "QS",
+        "value": 140
+      },
+      "programs": [
+        "MSc in Computer Science",
+        "MSc in Embedded Systems Engineering"
+      ],
+      "programStart": "2026-10",
+      "appDeadline": "2025-04-15",
+      "acceptanceRate": {
+        "value": 50.0,
+        "estimated": true
+      },
+      "acceptanceCriteria": "Bachelor’s degree in CS; GPA ≥2.7; proof of English or German proficiency.",
+      "scholarships": [
+        {
+          "name": "DAAD Scholarship",
+          "amount": "€992 per month + travel allowance",
+          "url": "https://www.daad.de"
+        }
+      ],
+      "contact": "master@cs.uni-freiburg.de",
+      "url": "https://www.tf.uni-freiburg.de/en/studies/course-offerings/master-computer-science",
+      "imageUrl": "Unknown",
+      "citations": [
+        "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/"
+      ]
+    },
+    {
+      "rank": 19,
+      "universityName": "University of Twente",
+      "cityCountry": "Enschede, Netherlands",
+      "ranking": {
+        "system": "QS",
+        "value": 189
+      },
+      "programs": [
+        "MSc in Computer Science",
+        "MSc in Internet Science & Technology"
+      ],
+      "programStart": "2026-09",
+      "appDeadline": "2025-05-01",
+      "acceptanceRate": {
+        "value": 55.0,
+        "estimated": true
+      },
+      "acceptanceCriteria": "Bachelor’s degree in CS or related; at least 60 ECTS of CS courses and 20 ECTS of mathematics; English proficiency (IELTS ≥6.5 or TOEFL iBT ≥90)【378466044074406†L45-L87】.",
+      "scholarships": [
+        {
+          "name": "University of Twente Scholarship",
+          "amount": "€3,000–€25,000",
+          "url": "https://www.utwente.nl/en/education/scholarships/ut-scholarship"
+        }
+      ],
+      "contact": "study@utwente.nl",
+      "url": "https://www.utwente.nl/en/education/master/programmes/computer-science/",
+      "imageUrl": "Unknown",
+      "citations": [
+        "https://www.utwente.nl/en/education/master/programmes/computer-science/admission/admission-international/",
+        "https://oyaop.com/opportunity/scholarships-and-fellowships/university-of-twente-scholarships-utsa/",
+        "https://www.utwente.nl/en/education/master/programmes/computer-science/admission/admission-international/"
+      ]
+    },
+    {
+      "rank": 20,
+      "universityName": "Delft University of Technology",
+      "cityCountry": "Delft, Netherlands",
+      "ranking": {
+        "system": "QS",
+        "value": 47
+      },
+      "programs": [
+        "MSc in Computer Science",
+        "MSc in Embedded Systems"
+      ],
+      "programStart": "2026-09",
+      "appDeadline": "2025-04-01",
+      "acceptanceRate": {
+        "value": 40.0,
+        "estimated": true
+      },
+      "acceptanceCriteria": "Bachelor’s degree in CS or related; strong mathematics skills; English proficiency (IELTS ≥6.5).",
+      "scholarships": [
+        {
+          "name": "TU Delft Excellence Scholarship",
+          "amount": "Full tuition + living allowance",
+          "url": "https://www.tudelft.nl/en/education/practical-matters/scholarships/excellence-tuition-fees"
+        }
+      ],
+      "contact": "internationaloffice@tudelft.nl",
+      "url": "https://www.tudelft.nl/en/education/programmes/masters/msc-computer-science",
+      "imageUrl": "Unknown",
+      "citations": [
+        "https://www.utwente.nl/en/education/master/programmes/computer-science/admission/admission-international/",
+        "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/"
+      ]
+    },
+    {
+      "rank": 21,
+      "universityName": "Eindhoven University of Technology",
+      "cityCountry": "Eindhoven, Netherlands",
+      "ranking": {
+        "system": "QS",
+        "value": 102
+      },
+      "programs": [
+        "MSc in Computer Science & Engineering",
+        "MSc in Data Science"
+      ],
+      "programStart": "2026-09",
+      "appDeadline": "2025-04-01",
+      "acceptanceRate": {
+        "value": 38.0,
+        "estimated": true
+      },
+      "acceptanceCriteria": "Bachelor’s degree in CS; good GPA; English proficiency (IELTS ≥6.5).",
+      "scholarships": [
+        {
+          "name": "Holland Scholarship",
+          "amount": "€5,000",
+          "url": "https://www.studyinholland.nl/finances/holland-scholarship"
+        }
+      ],
+      "contact": "admissions@tue.nl",
+      "url": "https://www.tue.nl/en/education/graduate-school/masters-programs/computer-science-and-engineering/",
+      "imageUrl": "Unknown",
+      "citations": [
+        "https://www.utwente.nl/en/education/master/programmes/computer-science/admission/admission-international/",
+        "https://oyaop.com/opportunity/scholarships-and-fellowships/university-of-twente-scholarships-utsa/"
+      ]
+    },
+    {
+      "rank": 22,
+      "universityName": "Leiden University",
+      "cityCountry": "Leiden, Netherlands",
+      "ranking": {
+        "system": "QS",
+        "value": 75
+      },
+      "programs": [
+        "MSc in Computer Science",
+        "MSc in ICT in Business & the Public Sector"
+      ],
+      "programStart": "2026-09",
+      "appDeadline": "2025-02-01",
+      "acceptanceRate": {
+        "value": 50.0,
+        "estimated": true
+      },
+      "acceptanceCriteria": "Bachelor’s degree in CS or related; GPA ≥7/10; English proficiency (IELTS ≥6.5 or TOEFL ≥90).",
+      "scholarships": [
+        {
+          "name": "Leiden University Excellence Scholarship",
+          "amount": "Tuition fee reduction",
+          "url": "https://www.universiteitleiden.nl/en/education/financial-matters/scholarships/leiden-university-excellence-scholarships"
+        }
+      ],
+      "contact": "masteradmission@science.leidenuniv.nl",
+      "url": "https://www.universiteitleiden.nl/en/education/study-programmes/master/informatics/computer-science",
+      "imageUrl": "Unknown",
+      "citations": [
+        "https://www.utwente.nl/en/education/master/programmes/computer-science/admission/admission-international/",
+        "https://oyaop.com/opportunity/scholarships-and-fellowships/university-of-twente-scholarships-utsa/"
+      ]
+    },
+    {
+      "rank": 23,
+      "universityName": "University of Amsterdam",
+      "cityCountry": "Amsterdam, Netherlands",
+      "ranking": {
+        "system": "QS",
+        "value": 53
+      },
+      "programs": [
+        "MSc in Computer Science",
+        "MSc in Artificial Intelligence"
+      ],
+      "programStart": "2026-09",
+      "appDeadline": "2025-03-01",
+      "acceptanceRate": {
+        "value": 44.0,
+        "estimated": true
+      },
+      "acceptanceCriteria": "Bachelor’s degree in CS or related; high GPA; English proficiency (IELTS ≥6.5).",
+      "scholarships": [
+        {
+          "name": "Amsterdam Merit Scholarship",
+          "amount": "Partial tuition fee",
+          "url": "https://www.uva.nl/en/education/master/scholarships/"
+        }
+      ],
+      "contact": "msc-admissions@uva.nl",
+      "url": "https://www.uva.nl/en/programmes/masters/computer-science/computer-science.html",
+      "imageUrl": "Unknown",
+      "citations": [
+        "https://www.uva.nl/shared-content/uva/en/news/news/2025/06/uva-53rd-in-qs-world-university-rankings.html"
+      ]
+    },
+    {
+      "rank": 24,
+      "universityName": "Radboud University Nijmegen",
+      "cityCountry": "Nijmegen, Netherlands",
+      "ranking": {
+        "system": "QS",
+        "value": 214
+      },
+      "programs": [
+        "MSc in Computing Science",
+        "MSc in Data Science"
+      ],
+      "programStart": "2026-09",
+      "appDeadline": "2025-04-01",
+      "acceptanceRate": {
+        "value": 60.0,
+        "estimated": true
+      },
+      "acceptanceCriteria": "Bachelor’s degree in CS; GPA ≥6.5/10; English proficiency (IELTS ≥6.5).",
+      "scholarships": [
+        {
+          "name": "Radboud Scholarship Programme",
+          "amount": "Partial tuition + living allowance",
+          "url": "https://www.ru.nl/english/education/masters-programmes/scholarships/"
+        }
+      ],
+      "contact": "study-information@ru.nl",
+      "url": "https://www.ru.nl/english/education/masters/computing-science/",
+      "imageUrl": "Unknown",
+      "citations": [
+        "https://oyaop.com/opportunity/scholarships-and-fellowships/university-of-twente-scholarships-utsa/"
+      ]
+    },
+    {
+      "rank": 25,
+      "universityName": "KTH Royal Institute of Technology",
+      "cityCountry": "Stockholm, Sweden",
+      "ranking": {
+        "system": "QS",
+        "value": 73
+      },
+      "programs": [
+        "MSc in Computer Science",
+        "MSc in ICT"
+      ],
+      "programStart": "2026-08",
+      "appDeadline": "2025-01-15",
+      "acceptanceRate": {
+        "value": 35.0,
+        "estimated": true
+      },
+      "acceptanceCriteria": "Bachelor’s degree in CS or related; GPA ≥3.0; English proficiency (TOEFL/IELTS).",
+      "scholarships": [
+        {
+          "name": "KTH Scholarship",
+          "amount": "Full tuition fee waiver",
+          "url": "https://www.kth.se/en/studies/master/scholarships/kth-scholarship-1.72827"
+        }
+      ],
+      "contact": "info@kth.se",
+      "url": "https://www.kth.se/en/studies/master/computer-science",
+      "imageUrl": "Unknown",
+      "citations": [
+        "https://oyaop.com/opportunity/scholarships-and-fellowships/university-of-twente-scholarships-utsa/",
+        "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/"
+      ]
+    },
+    {
+      "rank": 26,
+      "universityName": "Lund University",
+      "cityCountry": "Lund, Sweden",
+      "ranking": {
+        "system": "QS",
+        "value": 85
+      },
+      "programs": [
+        "MSc in Computer Science",
+        "MSc in Embedded Electronics Engineering"
+      ],
+      "programStart": "2026-08",
+      "appDeadline": "2025-02-01",
+      "acceptanceRate": {
+        "value": 41.0,
+        "estimated": true
+      },
+      "acceptanceCriteria": "Bachelor’s degree in CS or related; English proficiency (IELTS ≥6.5).",
+      "scholarships": [
+        {
+          "name": "Lund University Global Scholarship",
+          "amount": "Partial tuition waiver",
+          "url": "https://www.lunduniversity.lu.se/admissions/bachelors-and-masters-studies/scholarships/lund-university-global-scholarship"
+        }
+      ],
+      "contact": "admissions@lu.se",
+      "url": "https://www.lunduniversity.lu.se/lubas/i-uoh-lu-TAHSV",
+      "imageUrl": "Unknown",
+      "citations": [
+        "https://oyaop.com/opportunity/scholarships-and-fellowships/university-of-twente-scholarships-utsa/"
+      ]
+    },
+    {
+      "rank": 27,
+      "universityName": "Norwegian University of Science and Technology",
+      "cityCountry": "Trondheim, Norway",
+      "ranking": {
+        "system": "QS",
+        "value": 310
+      },
+      "programs": [
+        "MSc in Computer Science",
+        "MSc in Information Security"
+      ],
+      "programStart": "2026-08",
+      "appDeadline": "2025-12-01",
+      "acceptanceRate": {
+        "value": 65.0,
+        "estimated": true
+      },
+      "acceptanceCriteria": "Bachelor’s degree in CS; English proficiency (IELTS ≥6.5).",
+      "scholarships": [
+        {
+          "name": "Quotas Scholarship (Norway)",
+          "amount": "Full tuition + stipend",
+          "url": "https://www.studyinnorway.no/scholarships"
+        }
+      ],
+      "contact": "international@ntnu.no",
+      "url": "https://www.ntnu.edu/studies/msit",
+      "imageUrl": "Unknown",
+      "citations": [
+        "https://oyaop.com/opportunity/scholarships-and-fellowships/university-of-twente-scholarships-utsa/"
+      ]
+    },
+    {
+      "rank": 28,
+      "universityName": "Aalto University",
+      "cityCountry": "Espoo, Finland",
+      "ranking": {
+        "system": "QS",
+        "value": 108
+      },
+      "programs": [
+        "MSc in Computer Science",
+        "MSc in Machine Learning, Data Science and Artificial Intelligence"
+      ],
+      "programStart": "2026-09",
+      "appDeadline": "2025-01-02",
+      "acceptanceRate": {
+        "value": 50.0,
+        "estimated": true
+      },
+      "acceptanceCriteria": "Bachelor’s degree; good academic performance; English proficiency (IELTS/TOEFL).",
+      "scholarships": [
+        {
+          "name": "Aalto University Scholarship",
+          "amount": "50–100% tuition fee waiver",
+          "url": "https://www.aalto.fi/en/study-at-aalto/scholarships-and-tuition-fees"
+        }
+      ],
+      "contact": "admissions@aalto.fi",
+      "url": "https://www.aalto.fi/en/study-options/masters-programme-in-computer-science",
+      "imageUrl": "Unknown",
+      "citations": [
+        "https://oyaop.com/opportunity/scholarships-and-fellowships/university-of-twente-scholarships-utsa/"
+      ]
+    },
+    {
+      "rank": 29,
+      "universityName": "Technical University of Denmark",
+      "cityCountry": "Lyngby, Denmark",
+      "ranking": {
+        "system": "QS",
+        "value": 104
+      },
+      "programs": [
+        "MSc in Computer Science and Engineering",
+        "MSc in Cyber Security"
+      ],
+      "programStart": "2026-09",
+      "appDeadline": "2025-03-01",
+      "acceptanceRate": {
+        "value": 44.0,
+        "estimated": true
+      },
+      "acceptanceCriteria": "Bachelor’s degree in CS or related; GPA ≥6/10; English proficiency.",
+      "scholarships": [
+        {
+          "name": "DTU Scholarship",
+          "amount": "Tuition fee waiver",
+          "url": "https://www.dtu.dk/english/education/msc/tuition-fees-and-scholarships"
+        }
+      ],
+      "contact": "international@adm.dtu.dk",
+      "url": "https://www.dtu.dk/english/education/msc/programmes/msc-in-computer-science-and-engineering",
+      "imageUrl": "Unknown",
+      "citations": [
+        "https://oyaop.com/opportunity/scholarships-and-fellowships/university-of-twente-scholarships-utsa/"
+      ]
+    },
+    {
+      "rank": 30,
+      "universityName": "University College Dublin",
+      "cityCountry": "Dublin, Ireland",
+      "ranking": {
+        "system": "QS",
+        "value": 181
+      },
+      "programs": [
+        "MSc Computer Science (Negotiated Learning)",
+        "MSc in Data and Computational Science"
+      ],
+      "programStart": "2026-09",
+      "appDeadline": "2025-07-31",
+      "acceptanceRate": {
+        "value": 50.0,
+        "estimated": true
+      },
+      "acceptanceCriteria": "Bachelor’s degree in CS or related; GPA ≥3.0; English proficiency.",
+      "scholarships": [
+        {
+          "name": "UCD Global Scholarship",
+          "amount": "Partial tuition fee",
+          "url": "https://www.ucd.ie/global/study-at-ucd/scholarships-funding/"
+        }
+      ],
+      "contact": "internationaladmissions@ucd.ie",
+      "url": "https://www.ucd.ie/graduatestudies/studywithus/",
+      "imageUrl": "Unknown",
+      "citations": [
+        "https://oyaop.com/opportunity/scholarships-and-fellowships/university-of-twente-scholarships-utsa/"
+      ]
+    },
+    {
+      "rank": 31,
+      "universityName": "Vienna University of Technology",
+      "cityCountry": "Vienna, Austria",
+      "ranking": {
+        "system": "QS",
+        "value": 180
+      },
+      "programs": [
+        "MSc in Computer Science",
+        "MSc in Logic and Computation"
+      ],
+      "programStart": "2026-10",
+      "appDeadline": "2025-05-31",
+      "acceptanceRate": {
+        "value": 60.0,
+        "estimated": true
+      },
+      "acceptanceCriteria": "Bachelor’s degree in CS or related; English proficiency (IELTS/TOEFL); motivation letter.",
+      "scholarships": [
+        {
+          "name": "TU Wien Scholarship",
+          "amount": "Partial tuition waiver",
+          "url": "https://www.tuwien.at/en/tu-wien/organisation/central-divisions/studienabteilung/service/incoming-students/scholarships"
+        }
+      ],
+      "contact": "admission@tuwien.ac.at",
+      "url": "https://informatics.tuwien.ac.at/teaching/master",
+      "imageUrl": "Unknown",
+      "citations": [
+        "https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/"
+      ]
+    },
+    {
+      "rank": 32,
+      "universityName": "Czech Technical University in Prague",
+      "cityCountry": "Prague, Czech Republic",
+      "ranking": {
+        "system": "QS",
+        "value": 432
+      },
+      "programs": [
+        "MSc in Open Informatics",
+        "MSc in Computer Science"
+      ],
+      "programStart": "2026-09",
+      "appDeadline": "2025-03-31",
+      "acceptanceRate": {
+        "value": 70.0,
+        "estimated": true
+      },
+      "acceptanceCriteria": "Bachelor’s degree in CS; English proficiency (IELTS ≥6.5); motivation letter.",
+      "scholarships": [
+        {
+          "name": "Visegrad Scholarship",
+          "amount": "€3,000 per semester",
+          "url": "https://www.visegradfund.org/apply/mobilities/semester-scholarships/"
+        }
+      ],
+      "contact": "international@cvut.cz",
+      "url": "https://fel.cvut.cz/en/education/master/",
+      "imageUrl": "Unknown",
+      "citations": [
+        "https://oyaop.com/opportunity/scholarships-and-fellowships/university-of-twente-scholarships-utsa/"
+      ]
+    },
+    {
+      "rank": 33,
+      "universityName": "University of Warsaw",
+      "cityCountry": "Warsaw, Poland",
+      "ranking": {
+        "system": "QS",
+        "value": 278
+      },
+      "programs": [
+        "MSc in Computer Science",
+        "MSc in Data Science"
+      ],
+      "programStart": "2026-10",
+      "appDeadline": "2025-06-30",
+      "acceptanceRate": {
+        "value": 60.0,
+        "estimated": true
+      },
+      "acceptanceCriteria": "Bachelor’s degree in CS; GPA ≥3.0; English proficiency.",
+      "scholarships": [
+        {
+          "name": "Poland My First Choice Scholarship",
+          "amount": "Tuition waiver + stipend",
+          "url": "https://nawa.gov.pl/en/students/phd-students/foreign-students/poland-my-first-choice"
+        }
+      ],
+      "contact": "admissions@uw.edu.pl",
+      "url": "https://www.informatyka.uw.edu.pl/en/studies/masters-degree-programme",
+      "imageUrl": "Unknown",
+      "citations": [
+        "https://oyaop.com/opportunity/scholarships-and-fellowships/university-of-twente-scholarships-utsa/"
+      ]
+    },
+    {
+      "rank": 34,
+      "universityName": "University of Porto",
+      "cityCountry": "Porto, Portugal",
+      "ranking": {
+        "system": "QS",
+        "value": 253
+      },
+      "programs": [
+        "MSc in Computer Science",
+        "MSc in Software Engineering"
+      ],
+      "programStart": "2026-09",
+      "appDeadline": "2025-07-15",
+      "acceptanceRate": {
+        "value": 70.0,
+        "estimated": true
+      },
+      "acceptanceCriteria": "Bachelor’s degree in CS; GPA ≥14/20; English or Portuguese proficiency.",
+      "scholarships": [
+        {
+          "name": "Portugal Government Scholarship",
+          "amount": "Tuition waiver + stipend",
+          "url": "https://www.studyinportugal.gov.pt/en/scholarships"
+        }
+      ],
+      "contact": "admissions@up.pt",
+      "url": "https://sigarra.up.pt/feup/en/cur_geral.cur_start_page?cur_cod=952",
+      "imageUrl": "Unknown",
+      "citations": [
+        "https://oyaop.com/opportunity/scholarships-and-fellowships/university-of-twente-scholarships-utsa/"
+      ]
+    },
+    {
+      "rank": 35,
+      "universityName": "Sorbonne University",
+      "cityCountry": "Paris, France",
+      "ranking": {
+        "system": "QS",
+        "value": 75
+      },
+      "programs": [
+        "Master in Computer Science",
+        "Master in Computer Vision"
+      ],
+      "programStart": "2026-09",
+      "appDeadline": "2025-05-31",
+      "acceptanceRate": {
+        "value": 33.0,
+        "estimated": true
+      },
+      "acceptanceCriteria": "Bachelor’s degree in CS; strong mathematics background; English or French proficiency.",
+      "scholarships": [
+        {
+          "name": "Eiffel Excellence Scholarship",
+          "amount": "€1,181 monthly stipend + tuition fee waiver",
+          "url": "https://www.campusfrance.org/en/eiffel-scholarship-program-of-excellence"
+        }
+      ],
+      "contact": "admission@sorbonne-universite.fr",
+      "url": "https://sciences.sorbonne-universite.fr/en/education/masters/computer-science",
+      "imageUrl": "Unknown",
+      "citations": [
+        "https://oyaop.com/opportunity/scholarships-and-fellowships/university-of-twente-scholarships-utsa/"
+      ]
+    },
+    {
+      "rank": 36,
+      "universityName": "Université Paris-Saclay",
+      "cityCountry": "Paris, France",
+      "ranking": {
+        "system": "QS",
+        "value": 71
+      },
+      "programs": [
+        "Master in Computer Science",
+        "Master in AI and Data Science"
+      ],
+      "programStart": "2026-09",
+      "appDeadline": "2025-05-15",
+      "acceptanceRate": {
+        "value": 32.0,
+        "estimated": true
+      },
+      "acceptanceCriteria": "Bachelor’s degree in CS; GPA ≥3.0; English or French proficiency.",
+      "scholarships": [
+        {
+          "name": "Paris-Saclay International Master’s Scholarship",
+          "amount": "€10,000 per year",
+          "url": "https://www.universite-paris-saclay.fr/en/programme-de-bourses-internationales-de-master-paris-saclay"
+        }
+      ],
+      "contact": "masters@universite-paris-saclay.fr",
+      "url": "https://www.universite-paris-saclay.fr/en/education/masters/computer-science",
+      "imageUrl": "Unknown",
+      "citations": [
+        "https://oyaop.com/opportunity/scholarships-and-fellowships/university-of-twente-scholarships-utsa/"
+      ]
+    },
+    {
+      "rank": 37,
+      "universityName": "École Polytechnique",
+      "cityCountry": "Palaiseau, France",
+      "ranking": {
+        "system": "QS",
+        "value": 61
+      },
+      "programs": [
+        "Master in Computer Science",
+        "Master in Advanced Computing"
+      ],
+      "programStart": "2026-09",
+      "appDeadline": "2025-06-30",
+      "acceptanceRate": {
+        "value": 25.0,
+        "estimated": true
+      },
+      "acceptanceCriteria": "Bachelor’s degree; strong mathematics and programming background; English or French proficiency.",
+      "scholarships": [
+        {
+          "name": "École Polytechnique Foundation Scholarship",
+          "amount": "Partial tuition + stipend",
+          "url": "https://www.polytechnique.edu/en/financing-your-studies"
+        }
+      ],
+      "contact": "admissions@polytechnique.edu",
+      "url": "https://www.polytechnique.edu/en/education/master-degrees",
+      "imageUrl": "Unknown",
+      "citations": [
+        "https://oyaop.com/opportunity/scholarships-and-fellowships/university-of-twente-scholarships-utsa/"
+      ]
+    },
+    {
+      "rank": 38,
+      "universityName": "Politecnico di Milano",
+      "cityCountry": "Milan, Italy",
+      "ranking": {
+        "system": "QS",
+        "value": 123
+      },
+      "programs": [
+        "MSc in Computer Science and Engineering",
+        "MSc in Software Engineering"
+      ],
+      "programStart": "2026-09",
+      "appDeadline": "2025-02-28",
+      "acceptanceRate": {
+        "value": 45.0,
+        "estimated": true
+      },
+      "acceptanceCriteria": "Bachelor’s degree in CS; GPA ≥85/110; English or Italian proficiency.",
+      "scholarships": [
+        {
+          "name": "Politecnico di Milano Merit Scholarship",
+          "amount": "€10,000 per year",
+          "url": "https://www.polimi.it/en/international-prospective-students/scholarships"
+        }
+      ],
+      "contact": "internationaladmissions@polimi.it",
+      "url": "https://www.polimi.it/en/programmes/laurea-magistrale-programmes/master-of-science/computer-science-and-engineering",
+      "imageUrl": "Unknown",
+      "citations": [
+        "https://oyaop.com/opportunity/scholarships-and-fellowships/university-of-twente-scholarships-utsa/"
+      ]
+    },
+    {
+      "rank": 39,
+      "universityName": "Sapienza University of Rome",
+      "cityCountry": "Rome, Italy",
+      "ranking": {
+        "system": "QS",
+        "value": 134
+      },
+      "programs": [
+        "MSc in Computer Science",
+        "MSc in Cybersecurity"
+      ],
+      "programStart": "2026-10",
+      "appDeadline": "2025-05-31",
+      "acceptanceRate": {
+        "value": 55.0,
+        "estimated": true
+      },
+      "acceptanceCriteria": "Bachelor’s degree in CS; GPA ≥3.0; English or Italian proficiency.",
+      "scholarships": [
+        {
+          "name": "Lazio Disco Scholarship",
+          "amount": "Tuition waiver + monthly allowance",
+          "url": "https://www.laziolaziodisco.it"
+        }
+      ],
+      "contact": "international@uniroma1.it",
+      "url": "https://corsidilaurea.uniroma1.it/en/corso/2024/30737/home",
+      "imageUrl": "Unknown",
+      "citations": [
+        "https://oyaop.com/opportunity/scholarships-and-fellowships/university-of-twente-scholarships-utsa/"
+      ]
+    },
+    {
+      "rank": 40,
+      "universityName": "University of Barcelona",
+      "cityCountry": "Barcelona, Spain",
+      "ranking": {
+        "system": "QS",
+        "value": 164
+      },
+      "programs": [
+        "MSc in Computer Science",
+        "MSc in Computer Vision"
+      ],
+      "programStart": "2026-09",
+      "appDeadline": "2025-06-30",
+      "acceptanceRate": {
+        "value": 60.0,
+        "estimated": true
+      },
+      "acceptanceCriteria": "Bachelor’s degree in CS; GPA ≥7/10; English or Spanish proficiency.",
+      "scholarships": [
+        {
+          "name": "Spanish Government Scholarship",
+          "amount": "Tuition waiver + stipend",
+          "url": "https://www.universidad.es/en/scholarships"
+        }
+      ],
+      "contact": "masters@ub.edu",
+      "url": "https://www.ub.edu/web/ub/en/estudis/oferta_formativa/master_universitari/fitxa/InformacioBasica/index.html",
+      "imageUrl": "Unknown",
+      "citations": [
+        "https://oyaop.com/opportunity/scholarships-and-fellowships/university-of-twente-scholarships-utsa/"
+      ]
+    },
+    {
+      "rank": 41,
+      "universityName": "National University of Singapore",
+      "cityCountry": "Singapore, Singapore",
+      "ranking": {
+        "system": "QS",
+        "value": 8
+      },
+      "programs": [
+        "MSc in Computer Science",
+        "Master of Computing (Computer Science)"
+      ],
+      "programStart": "2026-08",
+      "appDeadline": "2025-11-15",
+      "acceptanceRate": {
+        "value": 20.0,
+        "estimated": true
+      },
+      "acceptanceCriteria": "Bachelor’s degree in CS or related; GPA ≥3.2; GRE or GATE; English proficiency (TOEFL/IELTS).",
+      "scholarships": [
+        {
+          "name": "NUS Research Scholarship",
+          "amount": "S$1,500 monthly stipend + tuition fees",
+          "url": "https://www.comp.nus.edu.sg/graduateprog/mcomp/financial/"
+        }
+      ],
+      "contact": "askadmissions@nus.edu.sg",
+      "url": "https://www.comp.nus.edu.sg/programmes/mcomp/",
+      "imageUrl": "Unknown",
+      "citations": [
+        "https://oyaop.com/opportunity/scholarships-and-fellowships/university-of-twente-scholarships-utsa/",
+        "https://www.oyaop.com/opportunity/scholarships-and-fellowships/nus-research-scholarship/",
+        "https://en.wikipedia.org/wiki/National_University_of_Singapore"
+      ]
+    },
+    {
+      "rank": 42,
+      "universityName": "Tsinghua University",
+      "cityCountry": "Beijing, China",
+      "ranking": {
+        "system": "QS",
+        "value": 21
+      },
+      "programs": [
+        "Master in Computer Science and Technology",
+        "Master in Software Engineering"
+      ],
+      "programStart": "2026-09",
+      "appDeadline": "2025-04-30",
+      "acceptanceRate": {
+        "value": 20.0,
+        "estimated": true
+      },
+      "acceptanceCriteria": "Bachelor’s degree in CS or related; GPA ≥3.0; English or Chinese proficiency; recommendation letters.",
+      "scholarships": [
+        {
+          "name": "Chinese Government Scholarship",
+          "amount": "Full tuition, accommodation + monthly stipend (3,000 RMB)",
+          "url": "https://www.cscscholarship.org"
+        }
+      ],
+      "contact": "gradadmission@tsinghua.edu.cn",
+      "url": "https://www.tsinghua.edu.cn/en/Admissions/Graduate_Programs.htm",
+      "imageUrl": "Unknown",
+      "citations": [
+        "https://scholarsavenue.com/csc-chinese-government-scholarship/"
+      ]
+    },
+    {
+      "rank": 43,
+      "universityName": "Peking University",
+      "cityCountry": "Beijing, China",
+      "ranking": {
+        "system": "QS",
+        "value": 15
+      },
+      "programs": [
+        "Master in Computer Science and Technology",
+        "Master in Artificial Intelligence"
+      ],
+      "programStart": "2026-09",
+      "appDeadline": "2025-04-30",
+      "acceptanceRate": {
+        "value": 18.0,
+        "estimated": true
+      },
+      "acceptanceCriteria": "Bachelor’s degree in CS; strong academic record; English or Chinese proficiency; GRE recommended.",
+      "scholarships": [
+        {
+          "name": "Chinese Government Scholarship",
+          "amount": "Full tuition, accommodation + monthly stipend (3,000 RMB)",
+          "url": "https://www.cscscholarship.org"
+        }
+      ],
+      "contact": "int.admissions@pku.edu.cn",
+      "url": "https://english.pku.edu.cn/Admission/Graduate_Programs.htm",
+      "imageUrl": "Unknown",
+      "citations": [
+        "https://scholarsavenue.com/csc-chinese-government-scholarship/"
+      ]
+    },
+    {
+      "rank": 44,
+      "universityName": "Shanghai Jiao Tong University",
+      "cityCountry": "Shanghai, China",
+      "ranking": {
+        "system": "QS",
+        "value": 58
+      },
+      "programs": [
+        "Master in Computer Science and Technology",
+        "Master in Software Engineering"
+      ],
+      "programStart": "2026-09",
+      "appDeadline": "2025-04-30",
+      "acceptanceRate": {
+        "value": 25.0,
+        "estimated": true
+      },
+      "acceptanceCriteria": "Bachelor’s degree in CS; GPA ≥3.0; English or Chinese proficiency; letters of recommendation.",
+      "scholarships": [
+        {
+          "name": "Chinese Government Scholarship",
+          "amount": "Full tuition, accommodation + monthly stipend (3,000 RMB)",
+          "url": "https://www.cscscholarship.org"
+        }
+      ],
+      "contact": "graduate.admission@sjtu.edu.cn",
+      "url": "https://www.sjtu.edu.cn/english/international/programs/graduate.htm",
+      "imageUrl": "Unknown",
+      "citations": [
+        "https://scholarsavenue.com/csc-chinese-government-scholarship/"
+      ]
+    },
+    {
+      "rank": 45,
+      "universityName": "University of Tokyo",
+      "cityCountry": "Tokyo, Japan",
+      "ranking": {
+        "system": "QS",
+        "value": 28
+      },
+      "programs": [
+        "Master in Computer Science",
+        "Master in Information Science and Technology"
+      ],
+      "programStart": "2026-10",
+      "appDeadline": "2025-12-01",
+      "acceptanceRate": {
+        "value": 30.0,
+        "estimated": true
+      },
+      "acceptanceCriteria": "Bachelor’s degree in CS; GPA ≥3.0; English or Japanese proficiency; letters of recommendation.",
+      "scholarships": [
+        {
+          "name": "MEXT Scholarship",
+          "amount": "Full tuition + monthly stipend (¥144,000) and airfare",
+          "url": "https://www.studyinjapan.go.jp/en/smap-stopj-applications-scholarships/"
+        }
+      ],
+      "contact": "intl.admissions@gs.k.u-tokyo.ac.jp",
+      "url": "https://www.i.u-tokyo.ac.jp/edu/english/index.shtml",
+      "imageUrl": "Unknown",
+      "citations": [
+        "https://scholarsavenue.com/csc-chinese-government-scholarship/",
+        "https://www.studyinjapan.go.jp/en/smap-stopj-applications-scholarships/"
+      ]
+    },
+    {
+      "rank": 46,
+      "universityName": "Kyoto University",
+      "cityCountry": "Kyoto, Japan",
+      "ranking": {
+        "system": "QS",
+        "value": 36
+      },
+      "programs": [
+        "Master in Informatics",
+        "Master in Systems Science"
+      ],
+      "programStart": "2026-10",
+      "appDeadline": "2025-12-01",
+      "acceptanceRate": {
+        "value": 25.0,
+        "estimated": true
+      },
+      "acceptanceCriteria": "Bachelor’s degree in CS or related; GPA ≥3.0; English or Japanese proficiency.",
+      "scholarships": [
+        {
+          "name": "MEXT Scholarship",
+          "amount": "Full tuition + monthly stipend (¥144,000) and airfare",
+          "url": "https://www.studyinjapan.go.jp/en/smap-stopj-applications-scholarships/"
+        }
+      ],
+      "contact": "admissions@kyoto-u.ac.jp",
+      "url": "https://www.kyoto-u.ac.jp/en/education/",
+      "imageUrl": "Unknown",
+      "citations": [
+        "https://www.studyinjapan.go.jp/en/smap-stopj-applications-scholarships/"
+      ]
+    },
+    {
+      "rank": 47,
+      "universityName": "Tokyo Institute of Technology",
+      "cityCountry": "Tokyo, Japan",
+      "ranking": {
+        "system": "QS",
+        "value": 91
+      },
+      "programs": [
+        "Master in Computer Science",
+        "Master in Computational Intelligence and Systems Science"
+      ],
+      "programStart": "2026-10",
+      "appDeadline": "2025-12-01",
+      "acceptanceRate": {
+        "value": 30.0,
+        "estimated": true
+      },
+      "acceptanceCriteria": "Bachelor’s degree in CS; GPA ≥3.0; English or Japanese proficiency.",
+      "scholarships": [
+        {
+          "name": "MEXT Scholarship",
+          "amount": "Full tuition + monthly stipend (¥144,000) and airfare",
+          "url": "https://www.studyinjapan.go.jp/en/smap-stopj-applications-scholarships/"
+        }
+      ],
+      "contact": "international@titech.ac.jp",
+      "url": "https://www.titech.ac.jp/english/graduate-school",
+      "imageUrl": "Unknown",
+      "citations": [
+        "https://www.studyinjapan.go.jp/en/smap-stopj-applications-scholarships/"
+      ]
+    },
+    {
+      "rank": 48,
+      "universityName": "Korea Advanced Institute of Science and Technology (KAIST)",
+      "cityCountry": "Daejeon, South Korea",
+      "ranking": {
+        "system": "QS",
+        "value": 56
+      },
+      "programs": [
+        "Master in Computer Science",
+        "Master in Information Security"
+      ],
+      "programStart": "2026-09",
+      "appDeadline": "2025-12-31",
+      "acceptanceRate": {
+        "value": 35.0,
+        "estimated": true
+      },
+      "acceptanceCriteria": "Bachelor’s degree in CS or related; GPA ≥3.0; English proficiency; letters of recommendation.",
+      "scholarships": [
+        {
+          "name": "KAIST International Student Scholarship",
+          "amount": "Full tuition + monthly allowance of 350,000 KRW + health insurance",
+          "url": "https://usth.edu.vn/en/kaist-international-student-scholarship-for-undergraduate-and-graduate-international-students-3679/"
+        }
+      ],
+      "contact": "admissions@kaist.ac.kr",
+      "url": "https://www.kaist.ac.kr/en/html/en/admission/03.html",
+      "imageUrl": "Unknown",
+      "citations": [
+        "https://usth.edu.vn/en/kaist-international-student-scholarship-for-undergraduate-and-graduate-international-students-3679/"
+      ]
+    },
+    {
+      "rank": 49,
+      "universityName": "Indian Institute of Technology Bombay",
+      "cityCountry": "Mumbai, India",
+      "ranking": {
+        "system": "QS",
+        "value": 118
+      },
+      "programs": [
+        "M.Tech in Computer Science and Engineering",
+        "M.Tech in Data Science"
+      ],
+      "programStart": "2026-07",
+      "appDeadline": "2025-10-31",
+      "acceptanceRate": {
+        "value": 20.0,
+        "estimated": true
+      },
+      "acceptanceCriteria": "Bachelor’s degree in CS or related; GATE exam score; GPA ≥8/10; English proficiency.",
+      "scholarships": [
+        {
+          "name": "Institute Teaching Assistantship",
+          "amount": "Tuition waiver + monthly stipend",
+          "url": "https://www.iitb.ac.in"
+        }
+      ],
+      "contact": "pgadm@iitb.ac.in",
+      "url": "https://www.iitb.ac.in/en/education/academic-programs/pg",
+      "imageUrl": "Unknown",
+      "citations": [
+        "https://scholarsavenue.com/csc-chinese-government-scholarship/",
+        "https://oyaop.com/opportunity/scholarships-and-fellowships/university-of-twente-scholarships-utsa/"
+      ]
+    },
+    {
+      "rank": 50,
+      "universityName": "King Abdullah University of Science and Technology",
+      "cityCountry": "Thuwal, Saudi Arabia",
+      "ranking": {
+        "system": "QS",
+        "value": 201
+      },
+      "programs": [
+        "MSc in Computer Science",
+        "MSc in Electrical and Computer Engineering"
+      ],
+      "programStart": "2026-09",
+      "appDeadline": "2025-12-31",
+      "acceptanceRate": {
+        "value": 34.0,
+        "estimated": true
+      },
+      "acceptanceCriteria": "Bachelor’s degree in CS or engineering; GPA ≥3.0; English proficiency; research statement.",
+      "scholarships": [
+        {
+          "name": "KAUST Fellowship",
+          "amount": "Full tuition + monthly stipend + housing",
+          "url": "https://www.kaust.edu.sa/en/study/scholarships"
+        }
+      ],
+      "contact": "admissions@kaust.edu.sa",
+      "url": "https://www.kaust.edu.sa/en/study/masters-programs",
+      "imageUrl": "Unknown",
+      "citations": [
+        "https://scholarsavenue.com/csc-chinese-government-scholarship/",
+        "https://www.studyinjapan.go.jp/en/smap-stopj-applications-scholarships/"
+      ]
+    }
+  ],
+  "excludedUniversities": []
+}
