@@ -30,17 +30,17 @@ function useDebounce<T>(value: T, delay: number): T {
 }
 
 export default function SearchFilters({ universities, onFilterChange }: SearchFiltersProps) {
+  // Get acceptance rate range first to initialize state correctly
+  const { minAcceptanceRate, maxAcceptanceRate } = useMemo(() => {
+    const rates = extractAcceptanceRates(universities)
+    return {
+      minAcceptanceRate: rates.length > 0 ? Math.min(...rates) : 0,
+      maxAcceptanceRate: rates.length > 0 ? Math.max(...rates) : 100
+    }
+  }, [universities])
+
   const [searchTerm, setSearchTerm] = useState('')
   const [selectedCountry, setSelectedCountry] = useState('')
-  const [rankingRange, setRankingRange] = useState([1, 100])
-  const [acceptanceRateRange, setAcceptanceRateRange] = useState([0, 100])
-  const [showAdvancedFilters, setShowAdvancedFilters] = useState(false)
-  
-  const debouncedSearchTerm = useDebounce(searchTerm, 300)
-
-  // Extract unique countries for filter dropdown
-  const countries = useMemo(() => extractCountries(universities), [universities])
-
   // Get min and max ranking for slider
   const { minRank, maxRank } = useMemo(() => {
     const ranks = universities.map(uni => uni.rank).filter(rank => !isNaN(rank))
@@ -50,14 +50,15 @@ export default function SearchFilters({ universities, onFilterChange }: SearchFi
     }
   }, [universities])
 
-  // Get acceptance rate range
-  const { minAcceptanceRate, maxAcceptanceRate } = useMemo(() => {
-    const rates = extractAcceptanceRates(universities)
-    return {
-      minAcceptanceRate: rates.length > 0 ? Math.min(...rates) : 0,
-      maxAcceptanceRate: rates.length > 0 ? Math.max(...rates) : 100
-    }
-  }, [universities])
+  const [rankingRange, setRankingRange] = useState([minRank, maxRank])
+  const [acceptanceRateRange, setAcceptanceRateRange] = useState([minAcceptanceRate, maxAcceptanceRate])
+  const [showAdvancedFilters, setShowAdvancedFilters] = useState(false)
+  
+  const debouncedSearchTerm = useDebounce(searchTerm, 300)
+
+  // Extract unique countries for filter dropdown
+  const countries = useMemo(() => extractCountries(universities), [universities])
+
 
   // Filter universities based on search criteria
   useEffect(() => {
